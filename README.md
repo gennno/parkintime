@@ -1,4 +1,4 @@
-<p align="center"><a href="https://parkintime.web.id/" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://parkintime.web.id/img/logo.png)" width="400" alt="parkintime logo"></a></p>
+<p><a href="https://parkintime.web.id/" target="_blank"><img src="https://parkintime.web.id/img/logo.png" width="400" alt="parkintime logo"></a></p>
 <hr>
 ParkinTime : IoT Based Parking Management System &amp; Booking Spot Mobile App <br>
 Parkintime Website : https://parkintime.web.id/ <br>
