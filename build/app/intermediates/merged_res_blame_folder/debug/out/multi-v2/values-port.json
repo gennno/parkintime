@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.parkirtime.app-mergeDebugResources-4:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CORNELISMAN\\.gradle\\caches\\transforms-3\\939e1ffa31d5eb13d83b66c84777d178\\transformed\\appcompat-1.1.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
