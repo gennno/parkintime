@@ -1,0 +1,13 @@
+{
+    "Slot_A0001": "Available",
+    "Slot_A0002": "Occupied",
+    "Slot_A0003": "Available",
+    "Slot_A0004": "Available",
+    "Summary": {
+        "Available": 3,
+        "Booked": 0,
+        "Occupied": 1,
+        "Total": 4
+    },
+    "timestamp": "2025-05-31 22:03:39"
+}
