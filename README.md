@@ -1,6 +1,7 @@
-# ParkinTime
+<p align="center"><a href="https://parkintime.web.id/" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://parkintime.web.id/img/logo.png)" width="400" alt="parkintime logo"></a></p>
+<hr>
 ParkinTime : IoT Based Parking Management System &amp; Booking Spot Mobile App <br>
-Parkintime Website : (https://parkintime.web.id/) <br>
+Parkintime Website : https://parkintime.web.id/ <br>
 <hr>
 Penjelasan Sistem IoT dan Website :<br> https://docs.google.com/document/d/1vZ9a08rJYJh-IjOIge9uHCIuteBBxdY2ZUrBVyzknDc/edit?usp=sharing <br>
 Penjelasan Mobile App : <br>https://docs.google.com/document/d/1E4dKvXSvjMUpoiwl_cpzAQuRcVxFIyJZDVrOB9qLW3k/edit?usp=sharing <br>
