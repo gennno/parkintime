@@ -1,0 +1,30 @@
+@keyframes singleMarquee {
+    0% {
+        transform: translateX(100%); /* mulai dari sisi kanan (di luar layar) */
+    }
+    100% {
+        transform: translateX(
+            -100%
+        ); /* bergerak sampai sisi kiri (di luar layar) */
+    }
+}
+.marquee {
+    animation: singleMarquee 10s linear infinite; /* durasi 10s, sesuaikan */
+    white-space: nowrap; /* pastikan isi tidak ter-wrap ke baris baru */
+}
+
+@keyframes floating {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.animate-floating {
+    animation: floating 3s ease-in-out infinite;
+}
